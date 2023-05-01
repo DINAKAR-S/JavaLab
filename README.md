@@ -1,2 +1,2 @@
 # JavaLab
-Case Study
+Case Study On Chocolate Shop
